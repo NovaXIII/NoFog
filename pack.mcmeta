@@ -1,0 +1,19 @@
+{
+    "pack": {
+        "pack_format": 1,
+		"supported_formats": {"min_inclusive": 1, "max_inclusive": 99},
+        "description": "by Virus."
+    },
+	"overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 1, "max_inclusive": 99},
+				"directory": "overlay_99"
+			},
+			{
+				"formats": {"min_inclusive": 1, "max_inclusive": 99},
+				"directory": "overlay_1"
+			}
+		]
+	}
+}
