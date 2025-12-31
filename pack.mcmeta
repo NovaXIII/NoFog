@@ -1,0 +1,19 @@
+{
+    "pack": {
+        "pack_format": 1,
+		"supported_formats": {"min_inclusive": 1, "max_inclusive": 999},
+        "description": "\u00A7a\u00A7lNo fog v1 made by NovaXI \u00A7r"
+    },
+	"overlays": {
+		"entries": [
+			{
+				"formats": {"min_inclusive": 1, "max_inclusive": 99},
+				"directory": "overlay_42"
+			},
+			{
+				"formats": {"min_inclusive": 1, "max_inclusive": 99},
+				"directory": "overlay_1"
+			}
+		]
+	}
+}
