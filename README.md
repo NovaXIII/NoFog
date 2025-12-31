@@ -69,3 +69,5 @@ Perfect for players who love exploration, building cinematic landscapes, or simp
 
 ## Links
 - Modrinth: [https://modrinth.com/resourcepack/no-fog-clear-view-resource-pack](#)
+- Donation: [https://ko-fi.com/novaxi](#)
+
